@@ -1,0 +1,12 @@
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\bin\Debug\net5.0\CalculatorApplication.deps.json
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\bin\Debug\net5.0\CalculatorApplication.dll
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\bin\Debug\net5.0\ref\CalculatorApplication.dll
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\bin\Debug\net5.0\CalculatorApplication.pdb
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\CalculatorApplication.csprojAssemblyReference.cache
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\CalculatorApplication.AssemblyInfo.cs
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\CalculatorApplication.dll
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\ref\CalculatorApplication.dll
+C:\Projects\BackEndProjects\Week9\CalculatorApplication\CalculatorApplication\obj\Debug\net5.0\CalculatorApplication.pdb
